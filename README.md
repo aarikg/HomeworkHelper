@@ -11,8 +11,8 @@ Helpful Tips:
 1. Links with a star are more relevant
 2. If it can't find a source even with 5 searches, it probably wont ever find a source
 
+--------------------------------------------------------------------------------------
 
-Images:
 ![image](https://github.com/CloudZeno/HomeworkHelper/assets/87767391/28626e4e-c22c-4614-86db-f4577b3fdbee)
 ![image](https://github.com/CloudZeno/HomeworkHelper/assets/87767391/efeb4aa9-d076-44a8-bcc6-8e2076e7ce81)
 
